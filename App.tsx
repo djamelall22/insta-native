@@ -1,16 +1,19 @@
 import React from 'react';
-import {StyleSheet, Text, View} from 'react-native';
-import AntDesign from 'react-native-vector-icons/AntDesign';
+import {StyleSheet, View} from 'react-native';
+import HomeScreen from './src/screens/HomeScreen/HomeScreen';
 
 const App = () => {
   return (
-    <View>
-      <Text>App</Text>
-      <AntDesign name="phone" size={99} />
+    <View style={styles.app}>
+      <HomeScreen />
     </View>
   );
 };
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  app: {
+    flex: 1,
+  },
+});
 
 export default App;
