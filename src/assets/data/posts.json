@@ -1,0 +1,120 @@
+[
+  {
+    "id": "1",
+    "createdAt": "19 DEcember 2022",
+    "images": [
+      "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur adipipsum dolor sit amet consectetur adipipsum dolor sit amet consectetur adipipsum dolor sit amet consectetur adipisicing elit. Nihil sit dolore exercitationem at aut delectus similique ab accusantium debitis officia!",
+    "user": {
+      "username": "Djamdddel",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+    },
+    "numOfComments": 11,
+    "numOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "nounou"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "idir"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "createdAt": "19 DEcember 2022",
+    "image": "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil sit dolore exercitationem at aut delectus similique ab accusantium debitis officia!",
+    "user": {
+      "username": "kamel",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+    },
+    "numOfComments": 11,
+    "numOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "nounou"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "idir"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "createdAt": "19 DEcember 2022",
+    "image": "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil sit dolore exercitationem at aut delectus similique ab accusantium debitis officia!",
+    "user": {
+      "username": "idir",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+    },
+    "numOfComments": 11,
+    "numOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "nounou"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "idir"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "4",
+    "createdAt": "19 DEcember 2022",
+    "image": "https://images.unsplash.com/photo-1674579097132-7ff78e832346?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.dolor sit amet consectetur adipisicing elit.dolor sit amet consectetur adipisicing elit.dolor sit amet consectetur adipisicing elit.dolor sit amet consectetur adipisicing elit. Nihil sit dolore exercitationem at aut delectus similique ab accusantium debitis officia!",
+    "user": {
+      "username": "Djamdddel",
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+    },
+    "numOfComments": 11,
+    "numOfLikes": 33,
+    "comments": [
+      {
+        "id": "1",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "nounou"
+        }
+      },
+      {
+        "id": "2",
+        "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "user": {
+          "username": "idir"
+        }
+      }
+    ]
+  }
+]
